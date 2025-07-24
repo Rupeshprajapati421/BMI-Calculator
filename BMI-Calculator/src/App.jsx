@@ -46,7 +46,7 @@ function App() {
     <>
       <div className="app ">
       <h1>hello world </h1>
-      <h1>this is rupesh thisiis mycall </h1>
+      <h1>this is rupesh thighjklhfjghklgksiis mycall </h1>
         <div className="container ">
           <h1>BMI CALCULATOR</h1>
           <form action="" onSubmit={calBmi}>
